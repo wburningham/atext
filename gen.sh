@@ -9,12 +9,12 @@ do
 	correction=$(echo $i | cut -f2 -d",")
 	upperCorrection="$(tr '[:lower:]' '[:upper:]' <<< ${correction:0:1})${correction:1}"
 	
-	echo "$match-,$correction-" >> Corrections.csv
-	echo "$match:,$correction:" >> Corrections.csv
-	echo "$match;,$correction;" >> Corrections.csv
-	echo "\"$match,\",\"$correction,\"" >> Corrections.csv
-	echo "$match.,$correction." >> Corrections.csv
-	echo "$match ,$correction " >> Corrections.csv
-	echo "$upperMatch ,$upperCorrection " >> Corrections.csv
+	echo "$match-,$correction-" >> corrections.csv
+	echo "$match:,$correction:" >> corrections.csv
+	echo "$match;,$correction;" >> corrections.csv
+	echo "\"$match,\",\"$correction,\"" >> corrections.csv
+	echo "$match.,$correction." >> corrections.csv
+	echo "$match ,$correction " >> corrections.csv
+	echo "$upperMatch ,$upperCorrection " >> corrections.csv
 	
 done;
