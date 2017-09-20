@@ -1,13 +1,11 @@
-remvoe,remove
-fakse,fake
-karam,karma
-resovle,resolve
 adn,and
 agin,again
 alos,also
 amzaing,amazing
 anf,and
 anythign,anything
+applicatoin,application
+applicatoins,applications
 aslo,also
 avalibale,avaliable
 becuase,because
@@ -31,8 +29,12 @@ everthing,everything
 everythign,everything
 exmaple,example
 exmaples,examples
+fakse,fake
+fiel,file
+fiels,files
 gam,game
 goin,going
+karam,karma
 lvoe,love
 otehrwise,otherwise
 optoins,options
@@ -44,7 +46,9 @@ proccessor,processor
 pubilc,public
 reccommend,recommend
 removs,removes
+remvoe,remove
 reponse,response
+resovle,resolve
 roels,roles
 roght,right
 satisfactoin,satisfaction
@@ -62,6 +66,7 @@ thay,they
 tpye,type
 trak,track
 udpate,update
+unit8,uint8
 waht,what
 wahts,whats
 wansts,wants
