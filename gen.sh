@@ -1,6 +1,6 @@
 #!/bin/bash
 
-rm -f Corrections.csv | true
+rm -f corrections.csv | true
 
 for i in $(cat corrections.txt);
 do

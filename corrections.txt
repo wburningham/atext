@@ -20,6 +20,8 @@ charcters,characters
 chari,chair
 charis,chairs
 consoel,console
+correctoin,correction
+correctoins,corrections
 defualt,default
 deatail,detail
 deatails,details
