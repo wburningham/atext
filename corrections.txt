@@ -51,7 +51,7 @@ fiel,file
 fiels,files
 frotn,front
 gam,game
-git commt, git commit
+commt,commit
 goin,going
 hte,the
 increament,increment
