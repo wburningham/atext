@@ -66,6 +66,8 @@ frotn,front
 gam,game
 goin,going
 hte,the
+importent,important
+inconvience,inconvenience
 increament,increment
 karam,karma
 liek,like
