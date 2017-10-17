@@ -53,6 +53,8 @@ differnt,different
 doens't,doesn't
 dooing,dooing
 effciency,efficiency
+evalution,evaluation
+evalutions,evaluations
 everthing,everything
 everythign,everything
 exmaple,example
@@ -82,6 +84,7 @@ optoins,options
 otehrwise,otherwise
 otpions,options
 otpoins,options
+ownenership,ownership
 packge,package
 performa,performs
 pleae,please
@@ -90,6 +93,8 @@ prusue,pursue
 prusues,pursues
 pubilc,public
 quesitons,questions
+questoin,question
+questoins,questions
 reccommend,recommend
 recusion,recursion
 removs,removes
@@ -109,6 +114,8 @@ shuold,should
 somethign,something
 startes,starts
 stroner,stronger
+succient,succinct
+succint,succinct
 sugguestion,suggestion
 sugguestions,suggestions
 suporting,supporting
@@ -135,3 +142,4 @@ wahts,whats
 waitign,waiting
 wansts,wants
 wnt,want
+woudl,would
