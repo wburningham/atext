@@ -1,4 +1,5 @@
 ablums,albums
+accoutning,accounting
 accuratly,accurately
 adn,and
 aggresive,aggressive
@@ -21,10 +22,12 @@ begining,beginning
 betwwen,between
 cacncel,cancel
 cacnel,cancel
+cahnge,change
 cahnged,changed
 caluclate,calculate
 chagne,change
 chagnes,changes
+challege,challenge
 charater,character
 charaters,characters
 charcter,character
@@ -36,6 +39,7 @@ chnages,changes
 collaboratoin,collaboration
 commetn,comment
 commetns,comments
+commitee,committee
 commt,commit
 consitent,consistent
 consoel,console
@@ -43,6 +47,7 @@ convension,convention
 convensions,conventions
 correctoin,correction
 correctoins,corrections
+culteral,cultural
 dahboard,dashboard
 dahboards,dashboards
 dashbaord,dashboard
@@ -53,10 +58,14 @@ defualt,default
 dicide,decide
 dicuss,discuss
 differetn,different
+differnet,different
 differnt,different
+dobule,double
 doens't,doesn't
 dooing,dooing
+doubel,double
 effciency,efficiency
+effectivly,effectively
 evalution,evaluation
 evalutions,evaluations
 everthing,everything
@@ -75,6 +84,7 @@ frotn,front
 gam,game
 goin,going
 hte,the
+htem,them
 ign,ing
 importent,important
 inconvience,inconvenience
@@ -87,11 +97,14 @@ maanagement,management
 makign,making
 managar,manager
 measureable,measurable
+meeitng,meeting
 meetign,meeting
 meetigns,meetings
 memebr,member
 memebrs,members
 motiveated,motivated
+ommitted,omitted
+ommitting,omitting
 optoins,options
 otehr,other
 otehrwise,otherwise
@@ -105,6 +118,8 @@ pleae,please
 prematurly,prematurely
 prioirty,priority
 proccessor,processor
+proejct,project
+protocal,protocol
 prusue,pursue
 prusues,pursues
 pubilc,public
@@ -116,6 +131,7 @@ reccomended,recommend
 reccommend,recommend
 recrutiing,recruiting
 recrutiting,recruiting
+recuriting,recruiting
 recusion,recursion
 removs,removes
 remvoe,remove
@@ -131,6 +147,7 @@ servcie,service
 servcies,services
 shoudl,should
 shuold,should
+skiped,skipped
 somethign,something
 startes,starts
 stroner,stronger
@@ -138,7 +155,9 @@ succient,succinct
 succint,succinct
 sugguestion,suggestion
 sugguestions,suggestions
+sumbitted,submitted
 suporting,supporting
+suprise,surprise
 surevy,survey
 swtich,switch
 taht,that
@@ -155,6 +174,7 @@ transactoin,transaction
 transactoins,transactions
 trasparent,transparent
 udpate,update
+uinque,unique
 unit8,uint8
 variabel,variable
 variabels,variables
