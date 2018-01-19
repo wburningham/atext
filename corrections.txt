@@ -1,4 +1,6 @@
 ablums,albums
+accomidate,accommodate
+accomidates,accommodates
 accoutning,accounting
 accuratly,accurately
 adn,and
@@ -17,6 +19,7 @@ aslo,also
 asnwer,answer
 assuption,assumption
 avalibale,avaliable
+becomming,becoming
 becuase,because
 begining,beginning
 betwwen,between
@@ -24,7 +27,10 @@ cacncel,cancel
 cacnel,cancel
 cahnge,change
 cahnged,changed
+caht,chat
 caluclate,calculate
+cehck,check
+cehcks,checks
 chagne,change
 chagnes,changes
 challege,challenge
@@ -41,13 +47,16 @@ commetn,comment
 commetns,comments
 commitee,committee
 commt,commit
+congradulate,congratulate
 consitent,consistent
 consoel,console
 convension,convention
 convensions,conventions
 correctoin,correction
 correctoins,corrections
+coudl,could
 culteral,cultural
+cultueral,culteral
 dahboard,dashboard
 dahboards,dashboards
 dashbaord,dashboard
@@ -55,7 +64,10 @@ dashbaords,dashboards
 deatail,detail
 deatails,details
 defualt,default
+desgin,design
+desgins,designs
 dicide,decide
+dicsuss,discuss
 dicuss,discuss
 differetn,different
 differnet,different
@@ -66,6 +78,7 @@ dooing,dooing
 doubel,double
 effciency,efficiency
 effectivly,effectively
+ellegant,elegant
 evalution,evaluation
 evalutions,evaluations
 everthing,everything
@@ -79,6 +92,7 @@ fakse,fake
 fallign,falling
 fiel,file
 fiels,files
+firday,friday
 fodler,folder
 frotn,front
 gam,game
@@ -103,6 +117,7 @@ meetigns,meetings
 memebr,member
 memebrs,members
 motiveated,motivated
+offical,official
 ommitted,omitted
 ommitting,omitting
 optoins,options
@@ -112,11 +127,15 @@ otpions,options
 otpoins,options
 ownenership,ownership
 packge,package
+palce,place
+palces,places
 pelase,please
 performa,performs
 pleae,please
+pleaes,please
 prematurly,prematurely
 prioirty,priority
+pritnln,println
 proccessor,processor
 proejct,project
 protocal,protocol
@@ -126,6 +145,7 @@ pubilc,public
 quesitons,questions
 questoin,question
 questoins,questions
+reccomend,recommend
 reccomendation,recommendation
 reccomended,recommend
 reccommend,recommend
@@ -136,6 +156,7 @@ recusion,recursion
 removs,removes
 remvoe,remove
 reponse,response
+requriement,requirement
 resovle,resolve
 roels,roles
 roght,right
@@ -159,6 +180,7 @@ sumbitted,submitted
 suporting,supporting
 suprise,surprise
 surevy,survey
+survye,survey
 swtich,switch
 taht,that
 technoligies,technologies
@@ -169,6 +191,8 @@ thouhgt,thought
 thouhgts,thoughts
 tomorow,tomorrow
 tpye,type
+trainign,training
+trainigns,trainings
 trak,track
 transactoin,transaction
 transactoins,transactions
