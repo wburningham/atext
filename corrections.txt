@@ -6,8 +6,11 @@ accuratly,accurately
 adn,and
 aggresive,aggressive
 agin,again
+agreesive,aggressive
+ahve,have
 alos,also
 alrady,already
+alwasy,always
 amzaing,amazing
 anf,and
 anythign,anything
@@ -27,6 +30,7 @@ cacncel,cancel
 cacnel,cancel
 cahnge,change
 cahnged,changed
+cahnges,changes
 caht,chat
 caluclate,calculate
 cehck,check
@@ -43,6 +47,7 @@ charis,chairs
 chnage,change
 chnages,changes
 collaboratoin,collaboration
+colums,columns
 commetn,comment
 commetns,comments
 commitee,committee
@@ -87,6 +92,7 @@ exmaple,example
 exmaples,examples
 expecation,expectation
 expectatoin,expectation
+explaination,explanation
 explict,explicit
 fakse,fake
 fallign,falling
@@ -97,6 +103,7 @@ fodler,folder
 frotn,front
 gam,game
 goin,going
+haev,have
 hte,the
 htem,them
 ign,ing
@@ -106,6 +113,7 @@ increament,increment
 inidividual,individual
 karam,karma
 liek,like
+lookign,looking
 lvoe,love
 maanagement,management
 makign,making
@@ -142,6 +150,7 @@ protocal,protocol
 prusue,pursue
 prusues,pursues
 pubilc,public
+purpus,purpose
 quesitons,questions
 questoin,question
 questoins,questions
@@ -153,6 +162,7 @@ recrutiing,recruiting
 recrutiting,recruiting
 recuriting,recruiting
 recusion,recursion
+regarless,regardless
 removs,removes
 remvoe,remove
 reponse,response
@@ -161,19 +171,26 @@ resovle,resolve
 roels,roles
 roght,right
 saem,same
+saerching,searching
 satisfactoin,satisfaction
 searhc,search
+seciton,section
 seperate,separate
+seraching,searching
 servcie,service
 servcies,services
 shoudl,should
 shuold,should
+similiar,similar
 skiped,skipped
+slience,silence
+soem,some
 somethign,something
 startes,starts
 stroner,stronger
 succient,succinct
 succint,succinct
+succintly,succinctly
 sugguestion,suggestion
 sugguestions,suggestions
 sumbitted,submitted
@@ -197,6 +214,7 @@ trak,track
 transactoin,transaction
 transactoins,transactions
 trasparent,transparent
+ualtrics,qualtrics
 udpate,update
 uinque,unique
 unit8,uint8
