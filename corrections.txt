@@ -1,8 +1,12 @@
+abadoned,abandoned
 ablums,albums
 accomidate,accommodate
 accomidates,accommodates
 accoutning,accounting
 accuratly,accurately
+accureate,accurate
+actucally,actually
+addign,adding
 adn,and
 aggresive,aggressive
 agin,again
@@ -23,7 +27,9 @@ aroudn,around
 aslo,also
 asnwer,answer
 assuption,assumption
+avaialble,available
 avalibale,avaliable
+bahavior,behavior
 becomming,becoming
 becuase,because
 begining,beginning
@@ -81,6 +87,7 @@ descion,decision
 descions,decisions
 desgin,design
 desgins,designs
+desigining,designing
 desribed,described
 dicide,decide
 dicsuss,discuss
@@ -88,8 +95,10 @@ dicuss,discuss
 differetn,different
 differnet,different
 differnt,different
+distinugish,distinguish
 disucssion,discussion
 disucssions,discussions
+disucussed,discussed
 dobule,double
 doens't,doesn't
 dooing,dooing
@@ -115,10 +124,13 @@ firday,friday
 fodler,folder
 frotn,front
 gam,game
+generatin,generating
 goin,going
 haev,have
+heirarchies,hierarchies
 hte,the
 htem,them
+idential,identical
 ign,ing
 importent,important
 incedent,incident
@@ -126,11 +138,14 @@ incedents,incidents
 inconvience,inconvenience
 increament,increment
 inidividual,individual
+internvals,intervals
 karam,karma
+langauge,language
 liek,like
 lookign,looking
 lvoe,love
 maanagement,management
+maintainance,maintenance
 makign,making
 managar,manager
 mathamatical,mathematical
@@ -143,6 +158,7 @@ memebrs,members
 methodoligy,methodology
 mitgate,mitigate
 motiveated,motivated
+movign,moving
 offical,official
 ommitted,omitted
 ommitting,omitting
@@ -157,6 +173,7 @@ palce,place
 palces,places
 pelase,please
 performa,performs
+perminant,permanent
 pleae,please
 pleaes,please
 poeple,people
@@ -176,6 +193,7 @@ quesitons,questions
 questoin,question
 questoins,questions
 reccomend,recommend
+reccomendation,recommendation
 reccomendation,recommendation
 reccomended,recommend
 reccommend,recommend
@@ -198,6 +216,7 @@ searhc,search
 seciton,section
 seperate,separate
 seraching,searching
+serivce,service
 servcie,service
 servcies,services
 shoudl,should
@@ -207,6 +226,7 @@ skiped,skipped
 slience,silence
 soem,some
 somethign,something
+sponser,sponsor
 spritn,sprint
 spritns,sprints
 startes,starts
@@ -252,3 +272,4 @@ wansts,wants
 wnt,want
 workign,working
 woudl,would
+yestarday,yesterday
