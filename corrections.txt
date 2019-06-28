@@ -95,6 +95,7 @@ dicuss,discuss
 differetn,different
 differnet,different
 differnt,different
+dispirsed,dispersed
 distinugish,distinguish
 disucssion,discussion
 disucssions,discussions
@@ -106,6 +107,7 @@ doubel,double
 effciency,efficiency
 effectivly,effectively
 ellegant,elegant
+envrionment,environment
 evalution,evaluation
 evalutions,evaluations
 everthing,everything
@@ -128,6 +130,7 @@ generatin,generating
 goin,going
 haev,have
 heirarchies,hierarchies
+hierachy,hierarchy
 hte,the
 htem,them
 idential,identical
@@ -224,6 +227,7 @@ shuold,should
 similiar,similar
 skiped,skipped
 slience,silence
+snapshop,snapshot
 soem,some
 somethign,something
 sponser,sponsor
