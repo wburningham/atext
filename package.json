@@ -1,0 +1,23 @@
+{
+  "name": "atext",
+  "version": "1.0.0",
+  "description": "1. Add any new corrections as a line entry to `corrections.txt`. 2. Run `.gen.sh`. 3. Import `corrections.csv` into [aText](https://www.trankynam.com/atext/) 4. Remove any duplicates in aText",
+  "main": "alfredsnippets.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wburningham/atext.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wburningham/atext/issues"
+  },
+  "homepage": "https://github.com/wburningham/atext#readme",
+  "dependencies": {
+    "jszip": "^3.2.1",
+    "uuid": "^3.3.2"
+  }
+}

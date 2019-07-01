@@ -7,3 +7,6 @@ publish:
 
 gen:
 	./gen.sh
+
+alfred:
+	bash -l -c 'nvm use' && rm -f corrections.alfredsnippets && node alfredsnippets.js && open corrections.alfredsnippets
