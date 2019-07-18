@@ -1,4 +1,3 @@
-replyign,replying
 abadoned,abandoned
 ablums,albums
 accomidate,accommodate
@@ -53,6 +52,10 @@ charcter,character
 charcters,characters
 chari,chair
 charis,chairs
+checkkout,checkout
+checout,checkout
+chekout,checkout
+chmode,chmod
 chnage,change
 chnages,changes
 collaboratoin,collaboration
@@ -102,6 +105,7 @@ disucssion,discussion
 disucssions,discussions
 disucussed,discussed
 dobule,double
+docekr,docker
 doens't,doesn't
 dooing,dooing
 doubel,double
@@ -143,6 +147,7 @@ inconvience,inconvenience
 increament,increment
 inidividual,individual
 internvals,intervals
+iternship,internship
 karam,karma
 langauge,language
 liek,like
@@ -150,6 +155,7 @@ lookign,looking
 lvoe,love
 maanagement,management
 maintainance,maintenance
+maintanance,maintenance
 makign,making
 managar,manager
 mathamatical,mathematical
@@ -161,6 +167,7 @@ memebr,member
 memebrs,members
 methodoligy,methodology
 mitgate,mitigate
+mkir,mkdir
 motiveated,motivated
 movign,moving
 offical,official
@@ -178,6 +185,7 @@ palces,places
 pelase,please
 performa,performs
 perminant,permanent
+perminantly,permanently
 pleae,please
 pleaes,please
 poeple,people
@@ -198,7 +206,6 @@ questoin,question
 questoins,questions
 reccomend,recommend
 reccomendation,recommendation
-reccomendation,recommendation
 reccomended,recommend
 reccommend,recommend
 recrutiing,recruiting
@@ -208,6 +215,7 @@ recusion,recursion
 regarless,regardless
 removs,removes
 remvoe,remove
+replyign,replying
 reponse,response
 requriement,requirement
 resovle,resolve
@@ -216,6 +224,7 @@ roght,right
 saem,same
 saerching,searching
 satisfactoin,satisfaction
+savigns,savings
 searhc,search
 seciton,section
 seperate,separate
@@ -231,11 +240,17 @@ slience,silence
 snapshop,snapshot
 soem,some
 somethign,something
+specfic,specific
 sponser,sponsor
 spritn,sprint
 spritns,sprints
+staatus,status
 startes,starts
+statu,status
+stauts,status
+strech,stretch
 stroner,stronger
+stuat,status
 succient,succinct
 succint,succinct
 succintly,succinctly
@@ -266,6 +281,7 @@ trasparent,transparent
 ualtrics,qualtrics
 udpate,update
 uinque,unique
+unblcok,unblock
 unit8,uint8
 variabel,variable
 variabels,variables
