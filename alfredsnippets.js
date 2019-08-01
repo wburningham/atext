@@ -39,7 +39,7 @@ fs.readFileSync("corrections.txt", "utf-8")
       // Vars.
       const name = parts[0] + "_" + delimiter;
       const snippet = delimiterFn(parts[1]);
-      const keyword = delimiterFn(parts[0] + "_" + delimiter);
+      const keyword = delimiterFn(parts[0]);
       const uid = uuidv4();
 
       // Create the snippet.
