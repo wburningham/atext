@@ -1,4 +1,3 @@
-availablility,availability
 abadoned,abandoned
 ablums,albums
 accomidate,accommodate
@@ -29,6 +28,7 @@ aslo,also
 asnwer,answer
 assuption,assumption
 avaialble,available
+availablility,availability
 avalibale,avaliable
 bahavior,behavior
 becomming,becoming
@@ -155,6 +155,7 @@ liek,like
 lookign,looking
 lvoe,love
 maanagement,management
+mabye,maybe
 maintainance,maintenance
 maintanance,maintenance
 makign,making

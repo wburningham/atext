@@ -7,6 +7,10 @@ const uuidv4 = require("uuid/v4");
 // Create archive.
 const zip = new JSZip();
 
+function uppercase(s) {
+  return s[0].toUpperCase() + s.substring(1);
+}
+
 const delimiterFns = {
   dash: function(s) {
     return s + "-";
@@ -23,8 +27,20 @@ const delimiterFns = {
   space: function(s) {
     return s + " ";
   },
-  uppercase: function(s) {
-    return s[0].toUpperCase() + s.substring(1);
+  uppercase_dash: function(s) {
+    return uppercase(s + "-");
+  },
+  uppercase_colon: function(s) {
+    return uppercase(s + ":");
+  },
+  uppercase_semicolon: function(s) {
+    return uppercase(s + ";");
+  },
+  uppercase_period: function(s) {
+    return uppercase(s + ".");
+  },
+  uppercase_space: function(s) {
+    return uppercase(s + " ");
   }
 };
 
