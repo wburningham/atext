@@ -27,6 +27,12 @@ const delimiterFns = {
   space: function(s) {
     return s + " ";
   },
+  single_quote: function(s) {
+    return s + "'";
+  },
+  double_quote: function(s) {
+    return s + "\"";
+  },
   uppercase_dash: function(s) {
     return uppercase(s + "-");
   },
