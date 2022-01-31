@@ -7,6 +7,7 @@ accoutning,accounting
 accuratly,accurately
 accureate,accurate
 actucally,actually
+acutal,actual
 addign,adding
 adn,and
 aggresive,aggressive
@@ -48,7 +49,9 @@ cahnge,change
 cahnged,changed
 cahnges,changes
 caht,chat
+calculatsion,calculation
 caluclate,calculate
+catagory,category
 cehck,check
 cehckout,checkout
 cehcks,checks
@@ -70,6 +73,7 @@ chmode,chmod
 chnage,change
 chnages,changes
 cloen,clone
+clonet,clone
 collaboratoin,collaboration
 colums,columns
 comit,commit
@@ -104,6 +108,7 @@ defence,defense
 defences,defenses
 definitly,definitely
 defualt,default
+dertmine,determine
 descion,decision
 descions,decisions
 desgin,design
@@ -114,6 +119,7 @@ dicide,decide
 dicsuss,discuss
 dicuss,discuss
 differetn,different
+differnent,different
 differnet,different
 differnt,different
 dispirsed,dispersed
@@ -126,6 +132,7 @@ docekr,docker
 doens't,doesn't
 dooing,dooing
 doubel,double
+dynamnically,dynamically
 effciency,efficiency
 effectivly,effectively
 ellegant,elegant
@@ -135,6 +142,7 @@ evalution,evaluation
 evalutions,evaluations
 everthing,everything
 everythign,everything
+evetually,eventually
 exipration,expiration
 exisitng,exiting
 exmaple,example
@@ -143,6 +151,7 @@ expecation,expectation
 expectatoin,expectation
 explaination,explanation
 explict,explicit
+explictily,explicitly
 fakse,fake
 fallign,falling
 fiel,file
@@ -151,6 +160,7 @@ firday,friday
 fodler,folder
 freqently,frequently
 frotn,front
+fucntion,function
 gam,game
 generatin,generating
 goin,going
@@ -160,6 +170,8 @@ hellow,hello
 hierachy,hierarchy
 hte,the
 htem,them
+hypohthezied,hypothesized
+ideitifed,identified
 idential,identical
 ign,ing
 implecations,implications
@@ -184,10 +196,13 @@ maanagement,management
 mabye,maybe
 maintainance,maintenance
 maintanance,maintenance
+maintance,maintenance
 makign,making
 malcious,malicious
 managar,manager
 mathamatical,mathematical
+mdkir,mkdir
+mdkri,mkdir
 measureable,measurable
 meeitng,meeting
 meetign,meeting
@@ -206,6 +221,7 @@ offical,official
 ommitted,omitted
 ommitting,omitting
 optoins,options
+orgin,origin
 orgin,originso
 otehr,other
 otehrwise,otherwise
@@ -240,6 +256,7 @@ quesitons,questions
 questoin,question
 questoins,questions
 quieries,queries
+rebease,rebase
 reccomend,recommend
 reccomendation,recommendation
 reccomended,recommend
@@ -252,6 +269,8 @@ regarless,regardless
 releatd,related
 removs,removes
 remvoe,remove
+repalce,replace
+replcias,replicas
 replyign,replying
 reponse,response
 requriement,requirement
@@ -292,6 +311,7 @@ startes,starts
 statu,status
 statuys,status
 stauts,status
+storign,storing
 strech,stretch
 stroner,stronger
 stuat,status
@@ -316,6 +336,7 @@ tehre,there
 termonology,terminology
 thay,they
 theorectically,theoretically
+theorhetically,theoretically
 thouhgt,thought
 thouhgts,thoughts
 tomorow,tomorrow
