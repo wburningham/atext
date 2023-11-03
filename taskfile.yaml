@@ -1,0 +1,52 @@
+version: 3
+
+vars:
+  NODE_VERSION:
+    sh: cat .nvmrc
+
+tasks:
+  default:
+    cmds:
+      - task: publish
+  publish:
+    cmds:
+      - git add corrections.txt
+      - git commit -m "updating corrections"
+      - git push origin master
+  deps:
+    preconditions:
+      - sh: 'docker ps'
+        msg: "Docker needs to be installed and running"
+    sources:
+      - .nvmrc
+      - taskfile.yaml
+      - package.json
+      - package-lock.json
+    generates:
+      - node_modules/jszip/package.json
+      - node_modules/uuid/package.json
+    cmds:
+      - echo "Using Node {{ .NODE_VERSION }}"
+      - docker run --rm -v `pwd`:/src -w /src --entrypoint sh node:{{ .NODE_VERSION }}-alpine -ec "npm ci"
+  gen:
+    deps:
+      - deps
+    preconditions:
+      - sh: 'docker ps'
+        msg: "Docker needs to be installed and running"
+    sources:
+      - .nvmrc
+      - taskfile.yaml
+      - corrections.txt
+      - alfredsnippets.js
+    generates:
+      - corrections.alfredsnippets
+    cmds:
+      - echo "Using Node {{ .NODE_VERSION }}"
+      - docker run --rm -v `pwd`:/src -w /src --entrypoint sh node:{{ .NODE_VERSION }}-alpine -ec "node alfredsnippets.js"
+  load:
+    deps:
+      - gen
+    cmds:
+      - open corrections.alfredsnippets
+  

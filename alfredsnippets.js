@@ -12,48 +12,48 @@ function uppercase(s) {
 }
 
 const delimiterFns = {
-  dash: function(s) {
+  dash: function (s) {
     return s + "-";
   },
-  colon: function(s) {
+  colon: function (s) {
     return s + ":";
   },
-  semicolon: function(s) {
+  semicolon: function (s) {
     return s + ";";
   },
-  period: function(s) {
+  period: function (s) {
     return s + ".";
   },
-  space: function(s) {
+  space: function (s) {
     return s + " ";
   },
-  single_quote: function(s) {
+  single_quote: function (s) {
     return s + "'";
   },
-  double_quote: function(s) {
-    return s + "\"";
+  double_quote: function (s) {
+    return s + '"';
   },
-  uppercase_dash: function(s) {
+  uppercase_dash: function (s) {
     return uppercase(s + "-");
   },
-  uppercase_colon: function(s) {
+  uppercase_colon: function (s) {
     return uppercase(s + ":");
   },
-  uppercase_semicolon: function(s) {
+  uppercase_semicolon: function (s) {
     return uppercase(s + ";");
   },
-  uppercase_period: function(s) {
+  uppercase_period: function (s) {
     return uppercase(s + ".");
   },
-  uppercase_space: function(s) {
+  uppercase_space: function (s) {
     return uppercase(s + " ");
   }
 };
 
 fs.readFileSync("corrections.txt", "utf-8")
   .split(/\r?\n/)
-  .forEach(function(line) {
-    Object.keys(delimiterFns).forEach(function(delimiter) {
+  .forEach(function (line) {
+    Object.keys(delimiterFns).forEach(function (delimiter) {
       const delimiterFn = delimiterFns[delimiter];
 
       const parts = line.split(",");
@@ -79,11 +79,9 @@ fs.readFileSync("corrections.txt", "utf-8")
     });
   });
 
-console.log("before zip");
-
 // Generate.
 zip.generateAsync({ type: "nodebuffer" }).then(
-  function(buffer) {
+  function (buffer) {
     try {
       fs.writeFileSync("corrections.alfredsnippets", buffer);
       // FileSaver.saveAs(content, 'corrections.alfredsnippets');
@@ -92,7 +90,7 @@ zip.generateAsync({ type: "nodebuffer" }).then(
       console.log(e);
     }
   },
-  function(err) {
+  function (err) {
     console.log("error with zip", err);
   }
 );

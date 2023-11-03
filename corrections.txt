@@ -6,6 +6,7 @@ accomidates,accommodates
 accoutning,accounting
 accuratly,accurately
 accureate,accurate
+actualy,actually
 actucally,actually
 acutal,actual
 addign,adding
@@ -74,6 +75,7 @@ chnage,change
 chnages,changes
 cloen,clone
 clonet,clone
+colaborative,collaborative
 collaboratoin,collaboration
 colums,columns
 comit,commit
@@ -127,6 +129,7 @@ distinugish,distinguish
 disucssion,discussion
 disucssions,discussions
 disucussed,discussed
+divorse,divorce
 dobule,double
 docekr,docker
 doens't,doesn't
@@ -164,6 +167,7 @@ fucntion,function
 gam,game
 generatin,generating
 goin,going
+guarentee,guarantee
 haev,have
 heirarchies,hierarchies
 hellow,hello
@@ -181,6 +185,7 @@ incedents,incidents
 inconvience,inconvenience
 increament,increment
 inidividual,individual
+interferience,interference
 internvals,intervals
 intsall,install
 intuative,intuitive
@@ -216,6 +221,7 @@ mitgate,mitigate
 mkir,mkdir
 motiveated,motivated
 movign,moving
+noboday,nobody
 obvisouly,obviously
 offical,official
 ommitted,omitted
@@ -275,6 +281,7 @@ replyign,replying
 reponse,response
 requriement,requirement
 requriements,requirements
+resiliance,resilience
 resovle,resolve
 reuqirement,requirement
 reuqirements,requirements
@@ -303,6 +310,7 @@ soem,some
 soemthing,something
 somethign,something
 specfic,specific
+specifc,specific
 sponser,sponsor
 spritn,sprint
 spritns,sprints
@@ -352,6 +360,9 @@ udpate,update
 uinque,unique
 unblcok,unblock
 unit8,uint8
+unresovled,unresolved
+untimatly,ultimately
+vaguely,vaguely
 variabel,variable
 variabels,variables
 varieity,variety
